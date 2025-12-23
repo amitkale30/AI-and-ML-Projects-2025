@@ -1,7 +1,7 @@
 # AI-and-ML-Projects-2025
 
 
-Project 1_Introduction to Python Project  FoodHub Data Analysis
+Project 1_Python Project  FoodHub Data Analysis
 
 Project 2_Project Machine Learning Personal Loan Campaign
 
