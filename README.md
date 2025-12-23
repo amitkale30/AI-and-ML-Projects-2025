@@ -1,5 +1,5 @@
 # AI-and-ML-Projects-2025
-AI and ML Projects 2025
+
 
 Project 1_Introduction to Python Project  FoodHub Data Analysis
 
